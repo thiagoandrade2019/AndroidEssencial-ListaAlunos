@@ -1,3 +1,3 @@
 # Fundamentos de Android
 
-Projeto para o curso de fundamentos de Android parte 1
+Projeto do curso android essencial da plataforma Alura.
